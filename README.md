@@ -5,6 +5,9 @@
 ## Selected Projects
 
 ### Flet Storage (PyPI Library)
+
+[![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703)
+
 *Asynchronous data persistence library for Flet applications.*
 
 - Designed and developed a reusable storage solution with automatic JSON serialization for complex data types
