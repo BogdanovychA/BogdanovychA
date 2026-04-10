@@ -20,6 +20,9 @@
 
 ---
 ### Fluent Manager (PyPI Library)
+
+[![DOI](https://zenodo.org/badge/1186346418.svg)](https://doi.org/10.5281/zenodo.19492979)
+
 *Lightweight Project Fluent localisation manager with automatic locale fallback.*
 
 - Designed and developed a streamlined localization solution featuring automatic discovery of `.ftl` resource files from the filesystem
