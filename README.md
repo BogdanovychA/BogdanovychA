@@ -33,6 +33,18 @@
 **PyPI:** https://pypi.org/project/fluent-manager/
 
 ---
+### H-Line
+*Hotline application for quickly creating and sending citizen requests via email.*
+
+- Designed and developed a cross-platform application using Flet and Python
+- Implemented document generation in DOCX, MD, and HTML formats for request templates
+- Added SMTP-based email delivery with SSL/TLS support for secure sending
+- Configured deployment for both desktop and web use, including Docker-based server setup
+- Integrated environment-based configuration for email settings, templates, and output files
+
+**GitHub:** https://github.com/siesgovua/h-line 
+
+---
 ### Nexus Shell — AI Agent Bot
 *Telegram-based interface for interacting with multiple LLM providers.*
 
