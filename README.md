@@ -6,7 +6,7 @@
 
 ### Flet Storage (PyPI Library)
 
-[![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/flet-storage)
+[![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/flet-storage)
 
 *Asynchronous data persistence library for Flet applications.*
 
@@ -21,7 +21,7 @@
 ---
 ### Fluent Manager (PyPI Library)
 
-[![DOI](https://zenodo.org/badge/1186346418.svg)](https://doi.org/10.5281/zenodo.19492979) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/fluent-manager?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/fluent-manager)
+[![DOI](https://zenodo.org/badge/1186346418.svg)](https://doi.org/10.5281/zenodo.19492979) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/fluent-manager?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/fluent-manager)
 
 *Lightweight Project Fluent localisation manager with automatic locale fallback.*
 
