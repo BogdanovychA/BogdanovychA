@@ -8,7 +8,7 @@
 
 [![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/flet-storage)
 
-*Asynchronous data persistence library for Flet applications.*
+*Asynchronous data persistence library for Flet applications.* 
 
 - Designed and developed a reusable storage solution with automatic JSON serialization for complex data types
 - Implemented data isolation via namespacing, enabling safe multi-module usage
