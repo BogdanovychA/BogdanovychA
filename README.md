@@ -8,15 +8,14 @@
 
 [![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/flet-storage)
 
-
 *Asynchronous data persistence library for Flet applications.*
 
 - Designed and developed a reusable storage solution with automatic JSON serialization for complex data types
 - Implemented data isolation via namespacing, enabling safe multi-module usage
-- Published and actively maintained as an open-source package on PyPI
+- Published and actively maintained as an open-source package on PyPI (~259 downloads/month)
 
-**GitHub:** https://github.com/BogdanovychA/flet-storage
-**PyPI:** https://pypi.org/project/flet-storage/
+**GitHub:** https://github.com/BogdanovychA/flet-storage  
+**PyPI:** https://pypi.org/project/flet-storage/  
 **AI Skill:** https://skills.sh/bogdanovycha/flet-storage/flet-storage
 
 ---
@@ -28,9 +27,9 @@
 
 - Designed and developed a streamlined localization solution featuring automatic discovery of `.ftl` resource files from the filesystem
 - Implemented a robust fallback chain (preferred locales → default locale → key itself) to ensure reliable string rendering across multiple languages
-- Published and actively maintained as an open-source package on PyPI
+- Published and actively maintained as an open-source package on PyPI (~128 downloads/week)
 
-**GitHub:** https://github.com/BogdanovychA/fluent-manager
+**GitHub:** https://github.com/BogdanovychA/fluent-manager  
 **PyPI:** https://pypi.org/project/fluent-manager/
 
 ---
@@ -53,7 +52,7 @@
 - Enabled safe multi-user interaction with Gemini, ChatGPT, and Claude
 - Implemented multilingual support
 
-**GitHub:** https://github.com/BogdanovychA/nexus-shell
+**GitHub:** https://github.com/BogdanovychA/nexus-shell  
 **Bot:** https://t.me/NexusShellBot
 
 ---
@@ -64,8 +63,8 @@
 - Implemented multilingual support
 - Delivered a user-facing product with real-world purpose
 
-**GitHub:** https://github.com/BogdanovychA/CodeUA
-**Web:** https://codeua.foundation101.org/
+**GitHub:** https://github.com/BogdanovychA/CodeUA  
+**Web:** https://codeua.foundation101.org/  
 **Google Play:** https://play.google.com/store/apps/details?id=org.foundation101.codeua
 
 ---
@@ -76,7 +75,7 @@
 - Integrated LLM APIs for dynamic interactions
 - Built web-based interface using Streamlit and FastAPI
 
-**GitHub:** https://github.com/BogdanovychA/karatel-game
+**GitHub:** https://github.com/BogdanovychA/karatel-game  
 **Web:** https://karatel.ua/
 
 ---
@@ -87,6 +86,6 @@
 - Built and deployed web and Android versions
 - Structured multi-project architecture for scalability
 
-**GitHub:** https://github.com/BogdanovychA/bmg
-**Web:** https://minigames.bogdanovych.org/
+**GitHub:** https://github.com/BogdanovychA/bmg  
+**Web:** https://minigames.bogdanovych.org/  
 **Google Play:** https://play.google.com/store/apps/details?id=org.foundation101.minigames
