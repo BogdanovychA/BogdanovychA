@@ -44,7 +44,7 @@
 
 **Tech Stack:** `Python 3.14`, `Flet`, `Pydantic v2`, `Jinja2`, `Docker`, `uv`, `SOLID`, `Registry Pattern`, `SMTP (SSL/TLS)`, `EUPL-1.2`, `PEP 639`.
 
-**GitHub:** https://github.com/siesgovua/h-line 
+**GitHub:** https://github.com/BogdanovychA/h-line
 
 ---
 ### Nexus Shell — AI Agent Bot
