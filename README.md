@@ -34,6 +34,9 @@
 
 ---
 ### H-Line | Lead Developer & Architect
+
+[![DOI](https://zenodo.org/badge/1211130746.svg)](https://doi.org/10.5281/zenodo.19590690)
+
 *Open-source hotline automation system for government sector digitalization.*
 
 - **Architected and developed** a cross-platform application using **Python 3.14** and **Flet**, strictly adhering to **SOLID** principles and modular design for long-term maintainability.
