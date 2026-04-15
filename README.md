@@ -33,14 +33,16 @@
 **PyPI:** https://pypi.org/project/fluent-manager/
 
 ---
-### H-Line
-*Hotline application for quickly creating and sending citizen requests via email.*
+### H-Line | Lead Developer & Architect
+*Open-source hotline automation system for government sector digitalization.*
 
-- Designed and developed a cross-platform application using Flet and Python
-- Implemented document generation in DOCX, MD, and HTML formats for request templates
-- Added SMTP-based email delivery with SSL/TLS support for secure sending
-- Configured deployment for both desktop and web use, including Docker-based server setup
-- Integrated environment-based configuration for email settings, templates, and output files
+- **Architected and developed** a cross-platform application using **Python 3.14** and **Flet**, strictly adhering to **SOLID** principles and modular design for long-term maintainability.
+- **Automated citizen appeal processes** for the State Energy Supervision of Ukraine, implementing a **scalable document generation engine** (DOCX, MD, HTML) using the **Registry Pattern** and **Jinja2** templates.
+- **Engineered a robust communications layer** with secure **SMTP (SSL/TLS)** delivery and enterprise-grade data validation/configuration management using **Pydantic v2**.
+- **Streamlined deployment and development workflows** using **Docker** and **uv**, ensuring consistent execution across Desktop, Web, and server-side environments.
+- **Standardized for Open Source & Research**: Orchestrated the public release under **EUPL-1.2**, ensuring full metadata compliance with **PEP 639** and establishing research citability via **DOI**.
+
+**Tech Stack:** `Python 3.14`, `Flet`, `Pydantic v2`, `Jinja2`, `Docker`, `uv`, `SOLID`, `Registry Pattern`, `SMTP (SSL/TLS)`, `EUPL-1.2`, `PEP 639`.
 
 **GitHub:** https://github.com/siesgovua/h-line 
 
