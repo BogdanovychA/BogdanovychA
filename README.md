@@ -19,6 +19,21 @@
 **AI Skill:** https://skills.sh/bogdanovycha/flet-storage/flet-storage
 
 ---
+
+### Mr. Transcript (PyPI Library)
+
+[![DOI](https://zenodo.org/badge/1212408609.svg)](https://doi.org/10.5281/zenodo.19630758) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/mr-transcript?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/mr-transcript)
+
+*Lightweight Python wrapper for reliable retrieval of YouTube transcripts with automatic URL parsing and subtitle fallback.*
+
+- Designed and developed an open-source Python library that simplifies transcript extraction from YouTube videos across multiple URL formats, including `youtube.com`, `youtu.be`, `shorts`, and `embed`
+- Implemented a resilient transcript lookup flow that prioritizes manually created subtitles and automatically falls back to YouTube-generated transcripts when needed
+- Added developer-friendly features such as language discovery, optional timecoded output, and type hints to improve integration into automation, research, and content-processing workflows
+
+**GitHub:** https://github.com/BogdanovychA/mr-transcript  
+**PyPI:** https://pypi.org/project/mr-transcript/  
+
+---
 ### Fluent Manager (PyPI Library)
 
 [![DOI](https://zenodo.org/badge/1186346418.svg)](https://doi.org/10.5281/zenodo.19492979) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/fluent-manager?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/fluent-manager)
