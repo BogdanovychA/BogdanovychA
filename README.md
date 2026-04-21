@@ -90,17 +90,6 @@
 **Google Play:** https://play.google.com/store/apps/details?id=org.foundation101.codeua
 
 ---
-### Karatel Game
-*RPG game based on D&D 5e mechanics with custom Ukrainian content.*
-
-- Developed backend logic for combat system, progression, and dice mechanics
-- Integrated LLM APIs for dynamic interactions
-- Built web-based interface using Streamlit and FastAPI
-
-**GitHub:** https://github.com/BogdanovychA/karatel-game  
-**Web:** https://karatel.ua/
-
----
 ### MiniGames
 *Collection of casual games for mobile and web platforms.*
 
@@ -111,3 +100,14 @@
 **GitHub:** https://github.com/BogdanovychA/bmg  
 **Web:** https://minigames.bogdanovych.org/  
 **Google Play:** https://play.google.com/store/apps/details?id=org.foundation101.minigames
+
+---
+### Karatel Game
+*RPG game based on D&D 5e mechanics with custom Ukrainian content.*
+
+- Developed backend logic for combat system, progression, and dice mechanics
+- Integrated LLM APIs for dynamic interactions
+- Built web-based interface using Streamlit and FastAPI
+
+**GitHub:** https://github.com/BogdanovychA/karatel-game  
+**Web:** https://karatel.ua/
