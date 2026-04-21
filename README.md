@@ -12,7 +12,7 @@
 
 - Designed and developed a reusable storage solution with automatic JSON serialization for complex data types
 - Implemented data isolation via namespacing, enabling safe multi-module usage
-- Published and actively maintained as an open-source package on PyPI (~259 downloads/month)
+- Published and actively maintained as an open-source package on PyPI
 
 **GitHub:** https://github.com/BogdanovychA/flet-storage  
 **PyPI:** https://pypi.org/project/flet-storage/  
@@ -32,6 +32,7 @@
 
 **GitHub:** https://github.com/BogdanovychA/mr-transcript  
 **PyPI:** https://pypi.org/project/mr-transcript/  
+**AI Skill:** https://skills.sh/bogdanovycha/mr-transcript/mr-transcript
 
 ---
 ### Fluent Manager (PyPI Library)
@@ -42,10 +43,11 @@
 
 - Designed and developed a streamlined localization solution featuring automatic discovery of `.ftl` resource files from the filesystem
 - Implemented a robust fallback chain (preferred locales → default locale → key itself) to ensure reliable string rendering across multiple languages
-- Published and actively maintained as an open-source package on PyPI (~128 downloads/week)
+- Published and actively maintained as an open-source package on PyPI
 
 **GitHub:** https://github.com/BogdanovychA/fluent-manager  
-**PyPI:** https://pypi.org/project/fluent-manager/
+**PyPI:** https://pypi.org/project/fluent-manager/  
+**AI Skill:** https://skills.sh/bogdanovycha/fluent-manager/fluent-manager  
 
 ---
 ### H-Line | Lead Developer & Architect
