@@ -1,0 +1,19 @@
+# IDEs
+**/.idea/
+**/.vscode/
+**/*.swo
+
+# System
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.swp
+
+# Clouds
+**/.stfolder/
+**/.stversions/
+**/.stignore
+**/.syncthing.*.tmp
+**/~syncthing~*.tmp
+**/*sync-conflict*
+**/*conflicted*

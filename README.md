@@ -6,7 +6,7 @@
 
 ### Flet Storage (PyPI Library)
 
-[![DOI](https://zenodo.org/badge/1139841017.svg)](https://doi.org/10.5281/zenodo.19492703) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/flet-storage)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/flet-storage?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/flet-storage)
 
 *Asynchronous data persistence library for Flet applications.*
 
@@ -22,7 +22,7 @@
 
 ### Mr. Transcript (PyPI Library)
 
-[![DOI](https://zenodo.org/badge/1212408609.svg)](https://doi.org/10.5281/zenodo.19630758) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/mr-transcript?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/mr-transcript)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/mr-transcript?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/mr-transcript)
 
 *Lightweight Python wrapper for reliable retrieval of YouTube transcripts with automatic URL parsing and subtitle fallback.*
 
@@ -37,7 +37,7 @@
 ---
 ### Fluent Manager (PyPI Library)
 
-[![DOI](https://zenodo.org/badge/1186346418.svg)](https://doi.org/10.5281/zenodo.19492979) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/fluent-manager?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/fluent-manager)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/fluent-manager?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/fluent-manager)
 
 *Lightweight Project Fluent localisation manager with automatic locale fallback.*
 
@@ -51,8 +51,6 @@
 
 ---
 ### H-Line | Lead Developer & Architect
-
-[![DOI](https://zenodo.org/badge/1211130746.svg)](https://doi.org/10.5281/zenodo.19590690)
 
 *Open-source hotline automation system for government sector digitalization.*
 
