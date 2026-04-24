@@ -60,8 +60,6 @@
 - **Streamlined deployment and development workflows** using **Docker** and **uv**, ensuring consistent execution across Desktop, Web, and server-side environments.
 - **Standardized for Open Source & Research**: Orchestrated the public release under **EUPL-1.2**, ensuring full metadata compliance with **PEP 639** and establishing research citability via **DOI**.
 
-**Tech Stack:** `Python 3.14`, `Flet`, `Pydantic v2`, `Jinja2`, `Docker`, `uv`, `SOLID`, `Registry Pattern`, `SMTP (SSL/TLS)`, `EUPL-1.2`, `PEP 639`.
-
 **GitHub:** https://github.com/BogdanovychA/h-line
 
 ---
