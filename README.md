@@ -1,5 +1,5 @@
 # Andrii BOGDANOVYCH
-- **Location:** Kyiv, Ukraine
+- **Location:** Kyiv, Ukraine 🇺🇦
 - **Projects Portfolio:** https://apps.bogdanovych.org/en/
 
 ---
