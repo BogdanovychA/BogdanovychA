@@ -6,6 +6,17 @@
 
 ## Selected Projects
 
+### LLM Wiki
+
+*An agent-driven persistent personal knowledge base built on the "LLM Wiki" pattern, enabling automated information ingestion, cross-linking, and consistency auditing.*
+
+- **Designed and implemented** an automated personal wiki system utilizing **LLM Agents**, following the concept proposed by Andrej Karpathy and adapted for Ukrainian language processing.
+- **Developed custom agent workflows and skills** (`ingest`, `query`, `linter`) for autonomous repository updates, cascade updates, and query result archiving.
+- **Built a Python-based static analysis engine** (`lint.py`) for automated repository maintenance, checking markdown link integrity, index consistency, identifying orphaned pages, and auto-correcting broken links.
+- **Established a structured, versioned architecture** separating raw source archives (`raw/`), agent-curated knowledge categories (`wiki/concepts/`, `wiki/entities/`), query archives, and automated logs.
+
+**GitHub:** https://github.com/BogdanovychA/llm-wiki  
+
 ### Crimea is Ukraine RAG
 
 *Minimalist RAG (Retrieval-Augmented Generation) assistant powered by Chainlit and LangChain, enabling rapid context retrieval and conversational Q&A regarding the occupation of Crimea.*
