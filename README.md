@@ -17,6 +17,8 @@
 
 **GitHub:** https://github.com/BogdanovychA/llm-wiki  
 
+---
+
 ### Crimea is Ukraine RAG
 
 *Minimalist RAG (Retrieval-Augmented Generation) assistant powered by Chainlit and LangChain, enabling rapid context retrieval and conversational Q&A regarding the occupation of Crimea.*
