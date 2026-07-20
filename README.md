@@ -20,6 +20,34 @@
 
 ---
 
+### Scientific Image of the World
+
+*Structured static knowledge base for the "Scientific Image of the World" course, featuring an automated Python-based compilation pipeline, custom Material theme overrides, and dynamic metadata generation.*
+
+- **Architected and developed** a structured personal knowledge base using **Python 3.12**, **MkDocs**, and the **Material for MkDocs** theme.
+- **Engineered a dynamic build-time hook system** (`hooks.py`) in Python to automate navigation menu assembly, category division, and alphabetical page index generation from markdown tables.
+- **Implemented a custom locale-independent sorting algorithm** for Ukrainian Cyrillic in Python, resolving Unicode sort ordering issues (`Є`, `І`, `Ї`, etc.) in headless CI/CD environments.
+- **Integrated dynamic Open Graph and Twitter Card metadata** injection per page and set up server-root client-side HTML redirects with complete metadata for rich social previews.
+- **Designed custom client-side styling and scripts**, including floating encyclopedia-style portrait layout overrides (`wikipedia.css`) and a mobile-friendly dynamic "Random Articles" sidebar widget.
+
+**GitHub:** https://github.com/BogdanovychA/scientific-image  
+**Web:** https://scientific-image.bogdanovych.org  
+
+---
+
+### Mental Health Database
+
+*Personal tracking and analysis database for daily activities and mental state, automated by custom AI agent workflows and structured in Markdown.*
+
+- **Designed and developed** a structured personal database system for tracking, scoring, and analyzing daily activities and emotional state.
+- **Created custom AI agent workflows and skills** (`onboarding`, `ingest`, `report`, `lint`) for automated conversational onboarding, raw data ingestion, and analytical reporting.
+- **Built a Python 3.12 static validation engine** (`lint.py`) to automate database maintenance, verify score aggregations, detect temporal gaps, and check markdown link integrity.
+- **Established a structured file organization** separating temporary inbox buffers, raw daily records (`raw/`), periodic analytical reports (`reports/`), and append-only activity logs.
+
+**GitHub:** https://github.com/BogdanovychA/mental-health  
+
+---
+
 ### Crimea is Ukraine RAG
 
 *Minimalist RAG (Retrieval-Augmented Generation) assistant powered by Chainlit and LangChain, enabling rapid context retrieval and conversational Q&A regarding the occupation of Crimea.*
